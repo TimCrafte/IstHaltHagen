@@ -1,0 +1,18 @@
+{
+"source": {
+    "guild_id": "BeispielSourceGuildID",
+    "channel_id": "BeispielSourceChannelID"
+},
+"targets": [
+    {
+        "guild_id": "BeispielTargetGuildID",
+        "channel_id": "BeispielTargetChannelID"
+      },
+        {
+        "guild_id": "BeispielTargetGuildID",
+        "channel_id": "BeispielTargetChannelID"
+      }
+    
+
+]
+}
